@@ -1,2 +1,2 @@
 # intro-to-github
-Thi is myu first github repository
+Thi is my first github repository
